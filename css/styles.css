@@ -1,0 +1,34 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  background-color: #D8C3A4;
+}
+
+.heading {
+  padding: 80px;
+  color: #E85A4F;
+  font-family: 'Beau Rivage', cursive;
+  text-shadow: 5px 0 #8E8D8A;
+  font-size: 6rem;
+}
+
+.JNP{
+  font-family: 'Abel', sans-serif;
+  color: #E85A4F;
+  font-size: 2rem;
+}
+.reload{
+  padding-bottom: 50px;
+}
+
+img {
+  width: 50%;
+    border-radius: 100%;
+}
+
+footer {
+  padding-top: 20%;
+  color: #8E8D8A;
+  text-align: center;
+  }
